@@ -1,2 +1,4 @@
 init  项目from git
+con  为了冲突插入1
 degit  提交的代码
+con  为了冲突1
