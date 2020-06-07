@@ -1,3 +1,9 @@
 init  项目from git
+degit  第二次编辑的冲突1111111
+con  为了冲突插入1
+degit  第二次编辑的冲突22222222222
 degit  提交的代码
 degit  提交的代码2
+degit  第二次编辑的冲突33333333
+con  为了（插入degiit冲突5555）冲突1
+degit  第二次编辑的冲突44444444
